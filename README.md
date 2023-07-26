@@ -6,7 +6,7 @@ This is also the first time I've used Fastify and Elasticsearch so hope that you
 1. Unzip file
 2. Install package for client: `cd client` and `yarn install`
 3. Install package for server: `cd api` and `yarn install`
-4. Run code front-end: `cd client` and `yarn dev`
-5. Run code back-end: `cd api` and `npx nodemon`
+4. Run code front-end: open a terminal and `cd client` and `yarn dev`
+5. Run code back-end: open another terminal and `cd api` and `npx nodemon`
 6. If you have any problems when running the source code, feel free to contact me at Gmail: hoangvu130301@gmail.com.
 7. Github: https://github.com/JeFlame/fcorp-round-1-test
