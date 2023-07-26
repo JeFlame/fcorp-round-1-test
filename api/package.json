@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.8.1",
+    "@fastify/cookie": "^8.3.0",
+    "@fastify/cors": "^8.3.0",
+    "fastify": "^4.20.0",
+    "fastify-bcrypt": "^1.0.1"
+  }
+}
