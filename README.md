@@ -10,3 +10,15 @@ This is also the first time I've used Fastify and Elasticsearch so hope that you
 5. Run code back-end: open another terminal and `cd api` and `npx nodemon`
 6. If you have any problems when running the source code, feel free to contact me at Gmail: hoangvu130301@gmail.com.
 7. Github: https://github.com/JeFlame/fcorp-round-1-test
+
+# Pros:
+1. Register
+2. Login
+3. Logout
+3. CRUD books
+4. CR comments
+
+# Cons:
+1. Still able to create user with existed username.
+2. Still able to create books with existed id.
+3. Users can create and read comment but there's only one level of nesting.
